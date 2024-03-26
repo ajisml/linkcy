@@ -6,7 +6,7 @@
 ## Apa Itu LinkCy
 
 LinkCy adalah aplikasi tautan bio yang memungkinkan kamu menautkan ke semua situs web, postingan sosial, video, musik, dan banyak lagi. 
-Web ini belum ada laman admin dan cocok untuk pembelajaran atau di kembangkan 😊.
+Web ini belum ada laman admin karna ini project tahun 2023, jadi lupa 😄 kalo pernah buat web ini ketika saya mau bersih bersih file, dan web ini cocok untuk pembelajaran atau di kembangkan 😊 lagi.
 
 Dibuat dengan CodeIgniter 4, framework web full-stack PHP yang ringan, cepat, fleksibel, dan aman.
 Informasi lebih lanjut dapat ditemukan di [situs resmi CodeIgniter](https://codeigniter.com).
